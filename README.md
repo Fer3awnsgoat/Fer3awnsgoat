@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Amine 👋
 
-<!--
-**Fer3awnsgoat/Fer3awnsgoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student passionate about technology, coding, and building cool projects!
 
-Here are some ideas to get you started:
+- 🎓 Currently studying and exploring the world of software development
+- 🌱 Learning: Flutter, Node.js, IoT, and cloud deployment
+- 💡 Interested in: IoT, mobile apps, and web development
+- 🤝 Open to collaborating on student projects and hackathons
+- 📫 How to reach me: massaoudaminee@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **IoT Monitoring System** – Real-time environmental monitoring with Flutter & Node.js
+
+## 🛠️ Tech Stack
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=MQTT&logoColor=white)
+
+## 📚 What I'm Up To
+- Building apps to solve real-world problems
+- Participating in coding competitions and hackathons
+- Always looking for new things to learn and new people to meet
+
+---
+
