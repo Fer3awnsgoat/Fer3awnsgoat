@@ -1,4 +1,4 @@
-# Hi there, I'm Amine 👋
+# Welcome Summoner, I'm Amine (sry league player ) : 
 
 I'm a student passionate about technology, coding, and building cool projects!
 
